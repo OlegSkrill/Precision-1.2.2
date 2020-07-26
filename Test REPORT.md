@@ -4,8 +4,8 @@
 
 New feature testing приложения по внедрению дополнительной бонусной системы новым клиентам.
 
-Результаты
-Ссылки на баг-репорты
+Results:
+https://github.com/OlegSkrill/Precision-1.2.2/issues/1
 
 Общие рекомендации
 
